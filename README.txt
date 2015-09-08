@@ -2,6 +2,7 @@
 a stochastic simulation from edx.org
 
 The two files you want to use are ps3b.py and ps4.py 
+unfortunately I've still got some fixing to do on the classes "resistant virus" and "treated patient".  In the interest of time I moved on to the analytical components of the project and opted to use edx's precompiled montecarlo simulation. 
 
 to configure files for different populations / prescription times edit the following entries
 
